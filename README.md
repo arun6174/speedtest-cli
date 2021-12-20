@@ -1,3 +1,5 @@
+> The outer [Makefile](./Makefile) is for OpenWrt. The one inside [src](./src) dir is to compile the binary.
+
 # speedtest
 speedtest-cli is the client tool (written in C) to measure upload and download throughput of a router against nearest speedtest.net public server.
 
